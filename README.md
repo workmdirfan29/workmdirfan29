@@ -2,6 +2,9 @@
 🔭 I’m currently working on UNLOK DEV<br>🌱 I’m currently learning React JS, Node JS<br>💬 Ask me about React JS and JAVA<br>📫 How to reach me work.mdirfan@gmail.com
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=workmdirfan29&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil__ik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdirfan2470) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdirfan_23) 
 
@@ -15,7 +18,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=workmdirfan29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=workmdirfan29&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
