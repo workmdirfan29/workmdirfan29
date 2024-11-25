@@ -1,4 +1,4 @@
-<h1 align="center">Mohammad Irfan</h1>
+<h1 align="center"color="green">Mohammad Irfan</h1>
 
 <h3 align="center">I am Irfan,A passionate frontend developer from "India". An aspiring developer and designer passionate about learning and growing in the world of tech. Exploring frameworks like React.js and Node.js, I’m excited to create user-friendly and visually appealing websites, constantly improving my skills to deliver great digital experiences."</h3>
 <hr style="border: 1 solid black;">
