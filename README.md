@@ -1,8 +1,4 @@
-<h1 align="center">Mohammad Irfan</h1>
 <h3 align="center">I am Irfan,A passionate frontend developer from "India". An aspiring developer and designer passionate about learning and growing in the world of tech. Exploring frameworks like React.js and Node.js, I’m excited to create user-friendly and visually appealing websites, constantly improving my skills to deliver great digital experiences."</h3>
-<hr style="border: 1 solid black;">
-<br>
-
 
 <p align="left"> <a href="https://twitter.com/mdirfan_23" target="blank"><img src="https://img.shields.io/twitter/follow/mdirfan_23?logo=twitter&style=for-the-badge" alt="mdirfan_23" /></a> </p>
 
@@ -19,9 +15,6 @@
 <a href="https://twitter.com/mdirfan_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdirfan_23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md irfan" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil__ik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil__ik" height="30" width="40" /></a>
-    <a href="https://example.com">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="My GIF" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
