@@ -1,7 +1,7 @@
 <h1 align="center">Mohammad Irfan</h1>
 <br>
 <h3 align="center">I am Irfan,A passionate frontend developer from "India". An aspiring developer and designer passionate about learning and growing in the world of tech. Exploring frameworks like React.js and Node.js, I’m excited to create user-friendly and visually appealing websites, constantly improving my skills to deliver great digital experiences."</h3>
-<hr style="1px solid black">
+<hr style="border: 1px solid black;">
 
 
 <p align="left"> <a href="https://twitter.com/mdirfan_23" target="blank"><img src="https://img.shields.io/twitter/follow/mdirfan_23?logo=twitter&style=for-the-badge" alt="mdirfan_23" /></a> </p>
