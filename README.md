@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-<p align="right"> <a href="https://twitter.com/mdirfan_23" target="blank"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="mdirfan_23" /></a> </p>
 
 - 🔭 I’m currently working on [UNLOK DEV](https://unlokthmify.vercel.app/)
 
