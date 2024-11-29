@@ -1,15 +1,6 @@
 <h1 align="center">Mohammad Irfan</h1>
 <h3 align="center">I am Irfan, a passionate frontend developer from "India". An aspiring developer and designer passionate about learning and growing in the world of tech. Exploring frameworks like React.js and Node.js, I’m excited to create user-friendly and visually appealing websites, constantly improving my skills to deliver great digital experiences.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-
-
-
-
-
-
-
-
+<img align="right" alt="Coding" width="400" margin-top:"50px"; src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I’m currently working on [UNLOK DEV](https://unlokthmify.vercel.app/)
 
