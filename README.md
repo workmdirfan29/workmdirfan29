@@ -1,5 +1,5 @@
-<h1 align="center">Mohammad Irfan</h1>
-<h3 align="center">I am Irfan, a passionate frontend developer from India. Exploring Libraries and frameworks like React Js, Next Js and Spring Boot. I’m excited to create user-friendly and visually appealing websites, constantly improving my skills to deliver great digital experiences.</h3>
+  <h1 align="center">Mohammad Irfan</h1>
+<h3 align="center">I am Irfan, A passionate frontend developer from India. Exploring Libraries and frameworks like React Js, Next Js and Spring Boot. I’m excited to create user-friendly and visually appealing websites, constantly improving my skills to deliver great digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workmdirfan29&label=Profile%20views&color=0e75b6&style=flat" alt="workmdirfan29" /> </p>
 
