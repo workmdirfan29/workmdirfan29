@@ -1,107 +1,151 @@
-# Hi 👋, I'm Md Irfan
+# Md Irfan
+### Frontend Developer | React.js | TypeScript
 
-### Frontend Developer | React.js | JavaScript | TypeScript
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=2563EB&width=600&lines=Building+Modern+Web+Experiences;React.js+%7C+TypeScript+%7C+JavaScript;Focused+on+Clean+UI+%26+Reusable+Components" alt="Typing SVG" />
+</p>
 
-I'm a passionate Frontend Developer and B.Tech graduate with a strong interest in building responsive, user-friendly, and visually appealing web applications.
-
-I enjoy transforming ideas into interactive digital experiences using modern frontend technologies. I have hands-on experience with React.js, TypeScript, Redux Toolkit, Tailwind CSS, and REST API integration. I'm continuously learning and improving my development skills.
-
-- 🎓 B.Tech Graduate in Computer Software Engineering (2026)
-- 💻 Focused on Frontend Development and React.js
-- 🚀 Building projects with React.js, TypeScript, and modern UI libraries
-- 🌱 Currently improving my skills in Full Stack Development
-- 👨‍💻 Check out my projects: [JobSprint](https://jobsprint-careers.vercel.app)
-- 📫 Reach me at: **mdirfan247026@gmail.com**
-- 📍 Noida, India
-
----
-
-### 🚀 Featured Project
-
-**JobSprint – Full Stack Job Portal**
-
-A full-stack job portal connecting recruiters and job seekers.
-
-- Separate dashboards for recruiters and job seekers
-- JWT-based authentication and authorization
-- Job posting, searching, and filtering
-- Job application management
-- Responsive user interface
-- REST API integration
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, Tailwind CSS.
-
-🔗 [Live Demo](https://jobsprint-careers.vercel.app)
+<p align="left">
+  <a href="https://github.com/workmdirfan29">
+    <img src="https://komarev.com/ghpvc/?username=workmdirfan29&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/workmdirfan29?tab=followers">
+    <img src="https://img.shields.io/github/followers/workmdirfan29?label=Followers&style=flat-square&color=2563eb" alt="GitHub Followers" />
+  </a>
+</p>
 
 ---
 
-### 💼 Internship Experience
+## About Me
 
-**Web Development Intern – Internship Wala**
+I am a **Frontend Developer** and B.Tech graduate in Computer Software Engineering, passionate about building modern, responsive, and user-centric web applications.
 
-*December 2025 | Remote*
+My primary focus is developing scalable frontend interfaces using **React.js, JavaScript, TypeScript, and modern UI technologies**. I enjoy creating reusable components, implementing efficient state management, integrating REST APIs, and translating ideas into seamless digital experiences.
+
+I also have experience working with backend technologies, allowing me to understand and contribute to full-stack application development.
+
+- Building responsive and accessible web interfaces.
+- Developing reusable and maintainable React components.
+- Working with REST APIs and application state management.
+- Exploring modern frontend architecture and development practices.
+- Continuously learning and improving through practical projects.
+
+**Currently focused on:** React.js, TypeScript, Redux Toolkit, and Full Stack Development.
+
+---
+
+## Technical Skills
+
+**Frontend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind" />
+</p>
+
+**UI Libraries & Styling**
+
+<p>
+<img src="https://skillicons.dev/icons?i=sass" />
+</p>
+
+Shadcn UI · Ant Design · Responsive Design
+
+**Backend & Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+**Developer Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,linux" />
+</p>
+
+---
+
+## Featured Projects
+
+### 01. JobSprint — Full Stack Job Portal
+
+A full-stack recruitment platform designed to connect job seekers and recruiters through a streamlined job discovery and application experience.
+
+**Key Features**
+- Role-based authentication and authorization using JWT.
+- Dedicated recruiter and job seeker dashboards.
+- Job creation, searching, and filtering.
+- Job application management.
+- Responsive and user-friendly interface.
+- REST API integration.
+
+**Technologies:** React.js · Node.js · Express.js · MongoDB · Redux Toolkit · Tailwind CSS
+
+[Live Demo](https://jobsprint-careers.vercel.app) · [GitHub Repository](https://github.com/workmdirfan29)
+
+---
+
+### 02. Hospital Record Keeper
+
+A project focused on organizing and managing hospital-related records through a structured application interface.
+
+### 03. Restaurant Management System
+
+A project focused on simplifying restaurant operations and organizing management-related workflows.
+
+---
+
+## Experience
+
+**Web Development Intern | Internship Wala**
+
+*December 2025 – January 2026 | Remote*
 
 - Developed responsive web interfaces using HTML, CSS, JavaScript, and React.js.
-- Worked on reusable UI components and REST API integration.
-- Used Git and GitHub for version control.
-- Collaborated on application features and UI improvements.
+- Built reusable UI components and worked with REST API integration.
+- Used Git and GitHub for version control and project collaboration.
+- Contributed to frontend features and interface improvements.
 
 ---
 
-### 🛠️ Languages and Tools
+## Education
+
+**Bachelor of Technology — Computer Software Engineering**
+
+Maulana Azad College of Engineering and Technology, Patna
+
+2022 – 2026
+
+**CGPA: 8.17 / 10**
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=workmdirfan29&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workmdirfan29&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=workmdirfan29&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## Let's Connect
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45" /></a>
-<a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" width="45" /></a>
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" /></a>
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /></a>
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" /></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" /></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45" /></a>
-<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" /></a>
+  <a href="https://linkedin.com/in/mdirfan2470">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/workmdirfan29">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mdirfan247026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-**Additional Technologies:** Shadcn UI, React Hook Form, Zod, REST APIs, JWT Authentication.
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mdirfan2470" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-<a href="https://github.com/workmdirfan29" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="40" />
-</a>
-<a href="mailto:mdirfan247026@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" />
-</a>
+<p align="center">
+  <i>Building meaningful digital experiences through clean code and continuous learning.</i>
 </p>
-
----
-
-### 📊 GitHub Statistics
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=workmdirfan29&show_icons=true&theme=tokyonight&hide_border=true" alt="Irfan's GitHub Stats" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workmdirfan29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-<img align="center" src="https://streak-stats.demolab.com?user=workmdirfan29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
