@@ -1,34 +1,107 @@
-  <h1 align="center">Mohammad Irfan</h1>
-<h3 align="center">I am Irfan, A passionate frontend developer from India. Exploring Libraries and frameworks like React Js, Next Js and Spring Boot. I’m excited to create user-friendly and visually appealing websites, constantly improving my skills to deliver great digital experiences.</h3>
+# Hi 👋, I'm Md Irfan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=workmdirfan29&label=Profile%20views&color=0e75b6&style=flat" alt="workmdirfan29" /> </p>
+### Frontend Developer | React.js | JavaScript | TypeScript
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=workmdirfan29" alt="workmdirfan29" /></a> </p>
+I'm a passionate Frontend Developer and B.Tech graduate with a strong interest in building responsive, user-friendly, and visually appealing web applications.
 
-<p align="left"> <a href="https://twitter.com/mdirfan_23" target="blank"><img src="https://img.shields.io/twitter/follow/mdirfan_23?logo=twitter&style=for-the-badge" alt="mdirfan_23" /></a> </p>
+I enjoy transforming ideas into interactive digital experiences using modern frontend technologies. I have hands-on experience with React.js, TypeScript, Redux Toolkit, Tailwind CSS, and REST API integration. I'm continuously learning and improving my development skills.
 
-- 🔭 I’m currently working on [@PasswordManager](https://password-manager-phi-eight.vercel.app/)
+- 🎓 B.Tech Graduate in Computer Software Engineering (2026)
+- 💻 Focused on Frontend Development and React.js
+- 🚀 Building projects with React.js, TypeScript, and modern UI libraries
+- 🌱 Currently improving my skills in Full Stack Development
+- 👨‍💻 Check out my projects: [JobSprint](https://jobsprint-careers.vercel.app)
+- 📫 Reach me at: **mdirfan247026@gmail.com**
+- 📍 Noida, India
 
-- 🌱 I’m currently learning **Next.Js, Express Js**
+---
 
-- 👯 I’m looking to collaborate on [@EverythingAboutWebDEV](https://github.com/xshshahab/EverythingAboutWebDEV)
+### 🚀 Featured Project
 
-- 💬 Ask me about **ReactJs, NodeJs**
+**JobSprint – Full Stack Job Portal**
 
-- 📫 How to reach me **work.mdirfan@gmail.com**
+A full-stack job portal connecting recruiters and job seekers.
 
-<h3 align="left">Connect with me:</h3>
+- Separate dashboards for recruiters and job seekers
+- JWT-based authentication and authorization
+- Job posting, searching, and filtering
+- Job application management
+- Responsive user interface
+- REST API integration
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, Tailwind CSS.
+
+🔗 [Live Demo](https://jobsprint-careers.vercel.app)
+
+---
+
+### 💼 Internship Experience
+
+**Web Development Intern – Internship Wala**
+
+*December 2025 | Remote*
+
+- Developed responsive web interfaces using HTML, CSS, JavaScript, and React.js.
+- Worked on reusable UI components and REST API integration.
+- Used Git and GitHub for version control.
+- Collaborated on application features and UI improvements.
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://twitter.com/mdirfan_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdirfan29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdirfan2470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdirfan2470" height="30" width="40" /></a>
-<a href="https://instagram.com/sahil__ik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil__ik" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45" /></a>
+<a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" width="45" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Additional Technologies:** Shadcn UI, React Hook Form, Zod, REST APIs, JWT Authentication.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workmdirfan29&show_icons=true&locale=en&layout=compact" alt="workmdirfan29" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=workmdirfan29&show_icons=true&locale=en" alt="workmdirfan29" /></p>
+### 🤝 Connect with Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workmdirfan29&" alt="workmdirfan29" /></p>
+<p align="left">
+<a href="https://linkedin.com/in/mdirfan2470" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="https://github.com/workmdirfan29" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
+<a href="mailto:mdirfan247026@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=workmdirfan29&show_icons=true&theme=tokyonight&hide_border=true" alt="Irfan's GitHub Stats" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workmdirfan29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+<img align="center" src="https://streak-stats.demolab.com?user=workmdirfan29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
